@@ -1,22 +1,12 @@
+#### DATA ANALYSIS
 
-program file:data_analysis.py
 
-for executing file:
+#### Generate data set for n students and find out toppers in respective categories.
 
-**************************************************************************
+### Run Program 
 
-		python data_analysis.py n filename.csv filename.txt
+### python data_analysis.py n csv_file_name.csv output_file_name.txt
 
-n-no_of_studnet_records.
-filename.csv - file will which contain generated data.
-filename.txt - file will which conatain output of 4 questions.
+# n-number of records of student to generate.
 
-**************************************************************************
-for example:
-**************************************************************************
 
-		python data_analysis.py 100 filename.csv filename.txt
-
-will generate 100 records of students record	
-
-***************************************************************************
