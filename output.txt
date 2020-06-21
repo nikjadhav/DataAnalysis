@@ -1,0 +1,8 @@
+overall topper id:Stud92
+male topper id:Stud69
+female topper id:Stud92
+engliish topper id:Stud48	
+math topper id:Stud0,Stud6,Stud21,Stud80	
+science topper id:Stud13,Stud37,Stud80,Stud92	
+history topper id:Stud59,Stud88	
+geography topper id:Stud25,Stud34	
